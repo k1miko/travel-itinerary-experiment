@@ -1,0 +1,37 @@
+body {
+    background-image: url("../src/download.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+
+.map {
+ height: 500px;
+}
+
+.marker {
+    background-image: url('https://cdn.icon-icons.com/icons2/3533/PNG/512/fashion_travel_hat_vacation_summer_sun_holiday_icon_221897.png');
+    background-size: cover;
+    width: 22px;
+    height: 22px;
+    background-color: green;
+    border-radius: 11px;
+    border: solid 3px black;
+}
+
+.marker-destination{
+    width: 22px;
+    height: 22px;
+    background-color: red;
+    border-radius: 11px;
+    border: solid 3px black;
+}
+
+.mapContainer {
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.thisRow {
+    color: white;
+}
